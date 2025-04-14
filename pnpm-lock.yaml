@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@aapelix/pixels':
+        specifier: ^1.0.7
+        version: 1.0.7(react@19.1.0)
       next:
         specifier: 15.3.0
         version: 15.3.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -47,6 +50,11 @@ importers:
         version: 5.8.3
 
 packages:
+
+  '@aapelix/pixels@1.0.7':
+    resolution: {integrity: sha512-6SPgvyXJ3vFIoTIJIGQ43SSwg89VF/hD2fP7QqFEZgVsknzZUK6G6vmqZEiOieVHQbMI5vr+ceWs9d+HCyY/yg==}
+    peerDependencies:
+      react: ^18.0.0
 
   '@alloc/quick-lru@5.2.0':
     resolution: {integrity: sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==}
@@ -1696,6 +1704,10 @@ packages:
     engines: {node: '>=10'}
 
 snapshots:
+
+  '@aapelix/pixels@1.0.7(react@19.1.0)':
+    dependencies:
+      react: 19.1.0
 
   '@alloc/quick-lru@5.2.0': {}
 
