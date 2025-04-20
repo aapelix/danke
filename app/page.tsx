@@ -1,53 +1,53 @@
 import Link from "next/link";
 import {
-  AlarmClockOff12,
-  Instagram12,
-  ArrowBigRightDash12,
-  Pickaxe12,
-  ArrowBigLeft12,
-  Apple12,
-  AlignCenterVertical12,
-  AlignLeft12,
-  ArrowDownAZ12,
-  AlarmClockPlus12,
-  Expand12,
-  Armchair12,
-  Airplay12,
-  AArrowUp12,
-  ArrowBigUpDash12,
-  Sun12,
-  Anchor12,
-  Annoyed12,
-  AlarmClockMinus12,
-  AlignEndVertical12,
-  Cloud12,
-  Album12,
-  AlignCenter12,
-  Users12,
-  ArrowBigRight12,
-  AlarmClockCheck12,
-  AppWindow12,
-  Compass12,
-  Youtube12,
-  TreeDeciduous12,
-  AArrowDown12,
-  AlarmClock12,
-  AlignJustify12,
-  AirVent12,
-  AppWindowMac12,
-  AlignRight12,
-  SunDim12,
-  Ampersands12,
-  AlignHorizontalDistributeCenter12,
-  Angry12,
-  ArchiveX12,
-  ArrowDown1012,
-  ArrowBigDownDash12,
-  Search12,
-  Aperture12,
-  Palette12,
-  PackageCheck12,
-} from "@aapelix/pixels";
+  AlarmClockOff,
+  Instagram,
+  ArrowBigRightDash,
+  Pickaxe,
+  ArrowBigLeft,
+  Apple,
+  AlignCenterVertical,
+  AlignLeft,
+  ArrowDownAZ,
+  AlarmClockPlus,
+  Expand,
+  Armchair,
+  Airplay,
+  AArrowUp,
+  ArrowBigUpDash,
+  Sun,
+  Anchor,
+  Annoyed,
+  AlarmClockMinus,
+  AlignEndVertical,
+  Cloud,
+  Album,
+  AlignCenter,
+  Users,
+  ArrowBigRight,
+  AlarmClockCheck,
+  AppWindow,
+  Compass,
+  Youtube,
+  TreeDeciduous,
+  AArrowDown,
+  AlarmClock,
+  AlignJustify,
+  AirVent,
+  AppWindowMac,
+  AlignRight,
+  SunDim,
+  Ampersands,
+  AlignHorizontalDistributeCenter,
+  Angry,
+  ArchiveX,
+  ArrowDown10,
+  ArrowBigDownDash,
+  Search,
+  Aperture,
+  Palette,
+  PackageCheck,
+} from "gracias-react";
 import Image from "next/image";
 
 export default function Home() {
@@ -87,60 +87,60 @@ export default function Home() {
                 href="/icons"
                 className="bg-muted-light-light h-12 hover:bg-muted-light duration-300 cursor-text items-center flex gap-3 rounded-pixel-2 w-full px-4 py-2"
               >
-                <Search12 /> Search 1565 icons...
+                <Search /> Search 1565 icons...
               </Link>
               <div className="grid md:grid-cols-8 grid-cols-11 grid-rows-4 bg-muted-light-light rounded-pixel-2 gap-3 px-3 mt-4 w-full py-3">
-                <AlarmClockOff12 className="w-9 h-9" />
-                <Instagram12 className="w-9 h-9" />
-                <ArrowBigRightDash12 className="w-9 h-9" />
-                <Pickaxe12 className="w-9 h-9" />
-                <ArrowBigLeft12 className="w-9 h-9" />
-                <Apple12 className="w-9 h-9" />
-                <AlignCenterVertical12 className="w-9 h-9" />
-                <AlignLeft12 className="w-9 h-9" />
-                <ArrowDownAZ12 className="w-9 h-9" />
-                <AlarmClockPlus12 className="w-9 h-9" />
-                <Expand12 className="w-9 h-9" />
-                <Armchair12 className="w-9 h-9" />
-                <Airplay12 className="w-9 h-9" />
-                <AArrowUp12 className="w-9 h-9" />
-                <ArrowBigUpDash12 className="w-9 h-9" />
-                <Sun12 className="w-9 h-9" />
-                <Anchor12 className="w-9 h-9" />
-                <Annoyed12 className="w-9 h-9" />
-                <AlarmClockMinus12 className="w-9 h-9" />
-                <AlignEndVertical12 className="w-9 h-9" />
-                <Cloud12 className="w-9 h-9" />
-                <Album12 className="w-9 h-9" />
-                <AlignCenter12 className="w-9 h-9" />
-                <Users12 className="w-9 h-9" />
-                <ArrowBigRight12 className="w-9 h-9" />
-                <AlarmClockCheck12 className="w-9 h-9" />
-                <AppWindow12 className="w-9 h-9" />
-                <Compass12 className="w-9 h-9" />
-                <Youtube12 className="w-9 h-9" />
-                <TreeDeciduous12 className="w-9 h-9" />
-                <AArrowDown12 className="w-9 h-9" />
-                <AlarmClock12 className="w-9 h-9" />
-                <AlignJustify12 className="w-9 h-9 block md:hidden" />
-                <AirVent12 className="w-9 h-9 block md:hidden" />
-                <AppWindowMac12 className="w-9 h-9 block md:hidden" />
-                <AlignRight12 className="w-9 h-9 block md:hidden" />
-                <SunDim12 className="w-9 h-9 block md:hidden" />
-                <Ampersands12 className="w-9 h-9 block md:hidden" />
-                <AlignHorizontalDistributeCenter12 className="w-9 h-9 block md:hidden" />
-                <Angry12 className="w-9 h-9 block md:hidden" />
-                <ArchiveX12 className="w-9 h-9 block md:hidden" />
-                <ArrowDown1012 className="w-9 h-9 block md:hidden" />
-                <ArrowBigDownDash12 className="w-9 h-9 block md:hidden" />
-                <Search12 className="w-9 h-9 block md:hidden" />
+                <AlarmClockOff className="w-9 h-9" />
+                <Instagram className="w-9 h-9" />
+                <ArrowBigRightDash className="w-9 h-9" />
+                <Pickaxe className="w-9 h-9" />
+                <ArrowBigLeft className="w-9 h-9" />
+                <Apple className="w-9 h-9" />
+                <AlignCenterVertical className="w-9 h-9" />
+                <AlignLeft className="w-9 h-9" />
+                <ArrowDownAZ className="w-9 h-9" />
+                <AlarmClockPlus className="w-9 h-9" />
+                <Expand className="w-9 h-9" />
+                <Armchair className="w-9 h-9" />
+                <Airplay className="w-9 h-9" />
+                <AArrowUp className="w-9 h-9" />
+                <ArrowBigUpDash className="w-9 h-9" />
+                <Sun className="w-9 h-9" />
+                <Anchor className="w-9 h-9" />
+                <Annoyed className="w-9 h-9" />
+                <AlarmClockMinus className="w-9 h-9" />
+                <AlignEndVertical className="w-9 h-9" />
+                <Cloud className="w-9 h-9" />
+                <Album className="w-9 h-9" />
+                <AlignCenter className="w-9 h-9" />
+                <Users className="w-9 h-9" />
+                <ArrowBigRight className="w-9 h-9" />
+                <AlarmClockCheck className="w-9 h-9" />
+                <AppWindow className="w-9 h-9" />
+                <Compass className="w-9 h-9" />
+                <Youtube className="w-9 h-9" />
+                <TreeDeciduous className="w-9 h-9" />
+                <AArrowDown className="w-9 h-9" />
+                <AlarmClock className="w-9 h-9" />
+                <AlignJustify className="w-9 h-9 block md:hidden" />
+                <AirVent className="w-9 h-9 block md:hidden" />
+                <AppWindowMac className="w-9 h-9 block md:hidden" />
+                <AlignRight className="w-9 h-9 block md:hidden" />
+                <SunDim className="w-9 h-9 block md:hidden" />
+                <Ampersands className="w-9 h-9 block md:hidden" />
+                <AlignHorizontalDistributeCenter className="w-9 h-9 block md:hidden" />
+                <Angry className="w-9 h-9 block md:hidden" />
+                <ArchiveX className="w-9 h-9 block md:hidden" />
+                <ArrowDown10 className="w-9 h-9 block md:hidden" />
+                <ArrowBigDownDash className="w-9 h-9 block md:hidden" />
+                <Search className="w-9 h-9 block md:hidden" />
               </div>
             </div>
           </section>
           <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mt-15 gap-4">
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <Expand12 className="text-accent w-8 h-8" />
+                <Expand className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Lightweight + Scalable</h1>
               <p className="text-muted">
@@ -151,7 +151,7 @@ export default function Home() {
 
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <Aperture12 className="text-accent w-8 h-8" />
+                <Aperture className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Clean + consistent</h1>
               <p className="text-muted">
@@ -162,7 +162,7 @@ export default function Home() {
 
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <Palette12 className="text-accent w-8 h-8" />
+                <Palette className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Customizable</h1>
               <p className="text-muted">
@@ -172,7 +172,7 @@ export default function Home() {
 
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <PackageCheck12 className="text-accent w-8 h-8" />
+                <PackageCheck className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Packages support</h1>
               <p className="text-muted">
@@ -183,7 +183,7 @@ export default function Home() {
 
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <TreeDeciduous12 className="text-accent w-8 h-8" />
+                <TreeDeciduous className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Tree shakable</h1>
               <p className="text-muted">
@@ -194,7 +194,7 @@ export default function Home() {
 
             <div className="bg-muted-light-light flex flex-col rounded-pixel-4 px-6 py-4">
               <div className="bg-white w-12 h-12 flex items-center justify-center rounded-pixel-2">
-                <Users12 className="text-accent w-8 h-8" />
+                <Users className="text-accent w-8 h-8" />
               </div>
               <h1 className="mt-6 text-xl">Actively updated</h1>
               <p className="text-muted">

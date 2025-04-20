@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aapelix/pixels": "^1.0.7",
+    "gracias-react": "^0.0.10",
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

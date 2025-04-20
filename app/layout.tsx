@@ -27,7 +27,7 @@ export default function RootLayout({
     <html lang="en">
       <link rel="icon" href="/lucide-icon.png" />
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased text-[#3c3c43]`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased text-[#3c3c43] overflow-x-hidden`}
         style={{ imageRendering: "pixelated" }}
       >
         <NavBar />

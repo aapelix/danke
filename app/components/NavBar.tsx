@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { AlignRight12, Ellipsis12 } from "@aapelix/pixels";
+import { AlignRight, Ellipsis } from "gracias-react";
 
 export default function NavBar() {
   return (
@@ -33,11 +33,11 @@ export default function NavBar() {
           License
         </Link>
         <button className="cursor-pointer">
-          <Ellipsis12 className="w-8 h-8 hover:text-accent duration-300" />
+          <Ellipsis className="w-8 h-8 hover:text-accent duration-300" />
         </button>
       </div>
       <button className="block md:hidden cursor-pointer">
-        <AlignRight12 className="w-8 h-8 hover:text-accent duration-300" />
+        <AlignRight className="w-8 h-8 hover:text-accent duration-300" />
       </button>
     </nav>
   );
